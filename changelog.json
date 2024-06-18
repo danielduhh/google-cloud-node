@@ -5,6 +5,57 @@
       "changes": [
         {
           "type": "feat",
+          "sha": "50736554b0433c16534e771d6673dffe3efac7c9",
+          "message": "[securitycentermanagement] add an INGEST_ONLY EnablementState",
+          "issues": [
+            "5445"
+          ]
+        }
+      ],
+      "version": "0.4.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/securitycentermanagement",
+      "id": "68ad7851-e8a1-443e-994d-8ec2ba0b380e",
+      "createTime": "2024-06-18T13:48:34.765Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "30aef59a85ea7d9835b08694f9be482b84e30c94",
+          "message": "Avoid unhandled exception on streamingRecognize",
+          "issues": [
+            "5465"
+          ]
+        }
+      ],
+      "version": "6.6.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/speech",
+      "id": "a059ad40-1e47-4ea9-9e31-cb1b069dcc23",
+      "createTime": "2024-06-18T13:48:34.743Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "140597eac392a4b777c3e0fda197544b0f2912ba",
+          "message": "[retail] support merged facets",
+          "issues": [
+            "5446"
+          ]
+        }
+      ],
+      "version": "3.5.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/retail",
+      "id": "d5efc90f-9b12-4f4b-a5db-a1272c0e49c5",
+      "createTime": "2024-06-18T13:48:34.720Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
           "sha": "724f42c129e09a79dd0be0c87578ed0507fa19b5",
           "message": "Add initial files for google.cloud.developerconnect.v1",
           "issues": [
@@ -34618,5 +34669,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2024-06-12T19:36:15.458Z"
+  "updateTime": "2024-06-18T13:48:34.765Z"
 }
